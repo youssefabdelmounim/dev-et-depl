@@ -1,0 +1,341 @@
+{
+  "overview": {
+    "n_students": 32593,
+    "n_modules": 7,
+    "n_presentations": 22,
+    "n_regions": 13,
+    "at_risk_rate": 0.528,
+    "n_at_risk": 17208,
+    "n_success": 15385
+  },
+  "final_result_distribution": [
+    {
+      "final_result": "Pass",
+      "n": 12361
+    },
+    {
+      "final_result": "Withdrawn",
+      "n": 10156
+    },
+    {
+      "final_result": "Fail",
+      "n": 7052
+    },
+    {
+      "final_result": "Distinction",
+      "n": 3024
+    }
+  ],
+  "at_risk_by_education": [
+    {
+      "highest_education": "No Formal quals",
+      "at_risk_rate": 0.7032,
+      "n_students": 347
+    },
+    {
+      "highest_education": "Lower Than A Level",
+      "at_risk_rate": 0.6115,
+      "n_students": 13158
+    },
+    {
+      "highest_education": "A Level or Equivalent",
+      "at_risk_rate": 0.4797,
+      "n_students": 14045
+    },
+    {
+      "highest_education": "HE Qualification",
+      "at_risk_rate": 0.4383,
+      "n_students": 4730
+    },
+    {
+      "highest_education": "Post Graduate Qualification",
+      "at_risk_rate": 0.345,
+      "n_students": 313
+    }
+  ],
+  "at_risk_by_age_band": [
+    {
+      "age_band": "0-35",
+      "at_risk_rate": 0.5497,
+      "n_students": 22944
+    },
+    {
+      "age_band": "35-55",
+      "at_risk_rate": 0.4784,
+      "n_students": 9433
+    },
+    {
+      "age_band": "55<=",
+      "at_risk_rate": 0.3843,
+      "n_students": 216
+    }
+  ],
+  "at_risk_by_imd_band": [
+    {
+      "imd_band": "0-10%",
+      "at_risk_rate": 0.6484,
+      "n_students": 3311
+    },
+    {
+      "imd_band": "10-20%",
+      "at_risk_rate": 0.6138,
+      "n_students": 3516
+    },
+    {
+      "imd_band": "20-30%",
+      "at_risk_rate": 0.5925,
+      "n_students": 3654
+    },
+    {
+      "imd_band": "40-50%",
+      "at_risk_rate": 0.5341,
+      "n_students": 3256
+    },
+    {
+      "imd_band": "30-40%",
+      "at_risk_rate": 0.5309,
+      "n_students": 3539
+    },
+    {
+      "imd_band": "50-60%",
+      "at_risk_rate": 0.5122,
+      "n_students": 3124
+    },
+    {
+      "imd_band": "70-80%",
+      "at_risk_rate": 0.4849,
+      "n_students": 2879
+    },
+    {
+      "imd_band": "60-70%",
+      "at_risk_rate": 0.4809,
+      "n_students": 2905
+    },
+    {
+      "imd_band": "80-90%",
+      "at_risk_rate": 0.4594,
+      "n_students": 2762
+    },
+    {
+      "imd_band": "90-100%",
+      "at_risk_rate": 0.4247,
+      "n_students": 2536
+    },
+    {
+      "imd_band": "Unknown",
+      "at_risk_rate": 0.3429,
+      "n_students": 1111
+    }
+  ],
+  "at_risk_by_region": [
+    {
+      "region": "North Western Region",
+      "at_risk_rate": 0.5981,
+      "n_students": 2906
+    },
+    {
+      "region": "London Region",
+      "at_risk_rate": 0.5765,
+      "n_students": 3216
+    },
+    {
+      "region": "West Midlands Region",
+      "at_risk_rate": 0.567,
+      "n_students": 2582
+    },
+    {
+      "region": "Yorkshire Region",
+      "at_risk_rate": 0.5513,
+      "n_students": 2006
+    },
+    {
+      "region": "Wales",
+      "at_risk_rate": 0.5484,
+      "n_students": 2086
+    },
+    {
+      "region": "East Midlands Region",
+      "at_risk_rate": 0.5429,
+      "n_students": 2365
+    },
+    {
+      "region": "Scotland",
+      "at_risk_rate": 0.5104,
+      "n_students": 3446
+    },
+    {
+      "region": "East Anglian Region",
+      "at_risk_rate": 0.5102,
+      "n_students": 3340
+    },
+    {
+      "region": "South West Region",
+      "at_risk_rate": 0.5021,
+      "n_students": 2436
+    },
+    {
+      "region": "North Region",
+      "at_risk_rate": 0.4948,
+      "n_students": 1823
+    },
+    {
+      "region": "South East Region",
+      "at_risk_rate": 0.4851,
+      "n_students": 2111
+    },
+    {
+      "region": "South Region",
+      "at_risk_rate": 0.4761,
+      "n_students": 3092
+    },
+    {
+      "region": "Ireland",
+      "at_risk_rate": 0.451,
+      "n_students": 1184
+    }
+  ],
+  "at_risk_by_gender": [
+    {
+      "gender": "F",
+      "at_risk_rate": 0.5156,
+      "n_students": 14718
+    },
+    {
+      "gender": "M",
+      "at_risk_rate": 0.5381,
+      "n_students": 17875
+    }
+  ],
+  "at_risk_by_disability": [
+    {
+      "disability": "N",
+      "at_risk_rate": 0.5182,
+      "n_students": 29429
+    },
+    {
+      "disability": "Y",
+      "at_risk_rate": 0.6185,
+      "n_students": 3164
+    }
+  ],
+  "at_risk_by_module": [
+    {
+      "code_module": "AAA",
+      "at_risk_rate": 0.2901,
+      "n_students": 748
+    },
+    {
+      "code_module": "BBB",
+      "at_risk_rate": 0.5254,
+      "n_students": 7909
+    },
+    {
+      "code_module": "CCC",
+      "at_risk_rate": 0.6216,
+      "n_students": 4434
+    },
+    {
+      "code_module": "DDD",
+      "at_risk_rate": 0.5839,
+      "n_students": 6272
+    },
+    {
+      "code_module": "EEE",
+      "at_risk_rate": 0.4376,
+      "n_students": 2934
+    },
+    {
+      "code_module": "FFF",
+      "at_risk_rate": 0.53,
+      "n_students": 7762
+    },
+    {
+      "code_module": "GGG",
+      "at_risk_rate": 0.4025,
+      "n_students": 2534
+    }
+  ],
+  "group_comparison": {
+    "vle_clicks_30d": {
+      "success": 463.05,
+      "at_risk": 200.82
+    },
+    "vle_active_days_30d": {
+      "success": 18.14,
+      "at_risk": 9.32
+    },
+    "vle_distinct_sites_30d": {
+      "success": 34.41,
+      "at_risk": 19.8
+    },
+    "assess_submit_rate_60d": {
+      "success": 1.02,
+      "at_risk": 0.51
+    },
+    "assess_mean_score_60d": {
+      "success": 79.7,
+      "at_risk": 66.73
+    },
+    "date_registration": {
+      "success": -66.5,
+      "at_risk": -72.02
+    },
+    "studied_credits": {
+      "success": 73.74,
+      "at_risk": 85.14
+    }
+  },
+  "engagement_distribution": {
+    "vle_clicks_30d_median": 188.0,
+    "vle_clicks_30d_mean": 324.6,
+    "vle_active_days_30d_mean": 13.48,
+    "no_vle_activity_30d_share": 0.1151,
+    "submit_rate_60d_mean": 0.7479
+  },
+  "model": {
+    "best_model": "hist_gradient_boosting",
+    "best_model_metrics": {
+      "accuracy": 0.8198,
+      "precision": 0.8641,
+      "recall": 0.7815,
+      "f1": 0.8207,
+      "roc_auc": 0.8977,
+      "cv_f1_mean": 0.8049,
+      "cv_f1_std": 0.0052,
+      "train_time_s": 8.2
+    },
+    "models_compared": {
+      "logistic_regression": {
+        "accuracy": 0.7992,
+        "precision": 0.834,
+        "recall": 0.7737,
+        "f1": 0.8027,
+        "roc_auc": 0.8839,
+        "cv_f1_mean": 0.791,
+        "cv_f1_std": 0.0058,
+        "train_time_s": 4.1
+      },
+      "random_forest": {
+        "accuracy": 0.8147,
+        "precision": 0.8677,
+        "recall": 0.7658,
+        "f1": 0.8136,
+        "roc_auc": 0.8942,
+        "cv_f1_mean": 0.7984,
+        "cv_f1_std": 0.0056,
+        "train_time_s": 15.2
+      },
+      "hist_gradient_boosting": {
+        "accuracy": 0.8198,
+        "precision": 0.8641,
+        "recall": 0.7815,
+        "f1": 0.8207,
+        "roc_auc": 0.8977,
+        "cv_f1_mean": 0.8049,
+        "cv_f1_std": 0.0052,
+        "train_time_s": 8.2
+      }
+    },
+    "trained_at": "2026-10-20T12:38:53+00:00"
+  }
+}
